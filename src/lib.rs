@@ -8,6 +8,10 @@ pub fn frown() -> String {
     format!("{}{}", EYES, "(")
 }
 
+pub fn indifferent() -> String {
+    format!("{}{}", EYES, "|")
+}
+
 pub fn angry() -> String {
     format!("{}{}{}", ">", EYES, "(")
 }
