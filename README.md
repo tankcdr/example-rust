@@ -1,4 +1,5 @@
 # [Codecov][1] Rust Example
+
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2Fexample-rust.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2Fexample-rust?ref=badge_shield)
 
 
